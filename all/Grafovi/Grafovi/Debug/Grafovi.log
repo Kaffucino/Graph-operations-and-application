@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\srdjan\desktop\asp domaci\grafovi\grafovi\dzp2.cpp(151): warning C4715: 'Lavirint::dohv_ulaz': not all control paths return a value
+c:\users\srdjan\desktop\asp domaci\grafovi\grafovi\dzp2.cpp(160): warning C4715: 'Lavirint::dohv_izlaz': not all control paths return a value
+  Grafovi.vcxproj -> C:\Users\Srdjan\Desktop\ASP domaci\Grafovi\Debug\Grafovi.exe
